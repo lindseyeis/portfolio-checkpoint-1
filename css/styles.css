@@ -5,8 +5,8 @@ ul {
 }
 
 ul .active{
-    color: #19196B;
-    background-color: #B3B2B2;
+    color: white;
+    background-color: #765cc0;
 }
 
 li {
@@ -16,7 +16,7 @@ li {
 }
 
 li a {
-    color: #15459D;
+    color: black;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     float: left;
     padding: 8px;
@@ -25,8 +25,8 @@ li a {
 }
 
 li a:hover {
-    background-color: #B3B2B2;
-    color: #19196B;
+    background-color: #b69ff7;
+    color: black;
 }
 
 h1 {
